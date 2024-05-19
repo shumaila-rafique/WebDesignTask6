@@ -1,0 +1,80 @@
+.main{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 2%;
+    background-color: darkred;
+}
+.top_image{
+    width: 9%;
+    margin-left: 2%;
+}
+.div1{
+    margin-top: 23%;
+    margin-left: 24%;
+}
+.h1{
+    color: white;
+    font-size: 310%;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.h3{
+    font-size: 161%;
+    font-weight: bolder;
+}
+.div2{
+    margin-left: 15%;
+}
+.div2_form input{
+    margin-top: 2%;
+    background-color: darkred;
+    width: 56%;
+    padding: 2%;
+    color: white;
+    border-bottom-width: thin;
+    border-top-width: thin;
+    border-left-width: thin;
+    border-right-width: thin;
+    border-bottom-color: white;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+}
+.textarea{
+    background-color: darkred;
+    color: white;
+    border-bottom-width: thin;
+    border-top-width: thin;
+    border-left-width: thin;
+    border-right-width: thin;
+    border-bottom-color: white;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+}
+.checkbox{
+    margin-right: -26%;
+    margin-left: -27%;
+}
+.checkbox2{
+    margin-right: -26%;
+    margin-left: -16%;
+
+}
+.checkbox3{
+    margin-right: -26%;
+    margin-left: -81%;
+
+}
+.div2_form img{
+    margin-left: 84%;
+    margin-bottom: -1%;
+    width: 16%;
+}
+.whitetext{
+    color: white;
+}
+.boldtext{
+    font-size: 161%;
+    font-weight: bolder;
+}
